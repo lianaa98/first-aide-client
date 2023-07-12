@@ -12,7 +12,8 @@ First Aide is an AI-powered personal health assistant that utilizes speech recog
 
 Click below to see demo video.
 
-🔗 [First-Aide Demo](https://www.youtube.com/watch?v=0kKaE3En4Us) 🔗
+🔗 [First-Aide Demo (without voice)](https://www.youtube.com/watch?v=0kKaE3En4Us) 🔗
+🔗 [First-Aide Demo (with voice)](https://www.youtube.com/watch?v=TUSJU9RD068) 🔗
 
 ## Disclaimer
 

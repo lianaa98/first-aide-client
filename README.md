@@ -9,6 +9,7 @@ This is a final project for Web Development Bootcamp at Lighthouse Labs, complet
 First Aide is an AI-powered personal health assistant that utilizes speech recognition and Open AI to provide medical related advice. It also keeps track of personal medical records.
 
 To access the back-end repo, please click the below link:
+
 🔗 [Back-end Repo](https://github.com/lianaa98/first-aide-server) 🔗
 
 ## Demo Video
